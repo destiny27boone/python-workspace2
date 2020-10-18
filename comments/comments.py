@@ -1,6 +1,6 @@
 
 
-# This is a comment.
+#This is a comment.
 
 '''
 This
@@ -11,4 +11,4 @@ of
 comment.
 '''
 
-A = 27 # This is what A is. 
+A = 27 #This is what A is. 
